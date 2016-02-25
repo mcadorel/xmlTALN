@@ -1,4 +1,4 @@
-package devoirMaison;
+package xmlDOMXPATH;
 	
 import javax.print.attribute.Attribute;
 import javax.xml.parsers.DocumentBuilderFactory;
